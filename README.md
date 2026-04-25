@@ -22,6 +22,8 @@ You can test the model with:
 
 The model will output detected objects with bounding boxes and labels.
 
+![example](https://raw.githubusercontent.com/Grimza/underwater-vision-scanner/5619a181a7d069da2c1306a509880e228c7169aa/assets/readme_example.webp) 
+
 ---
 Note: If the image window does not open when running the script, it may be due to your system’s default image viewer. Some applications (such as Paint 3D on Windows) may not open images correctly when called from Python.
 
